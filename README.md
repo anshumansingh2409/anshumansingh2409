@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&size=100&pause=1000&color=18b8d0&center=true&vCenter=true&width=2000&height=200&lines=HELLO+NICE+TO+MEET+YOU%F0%9F%91%8B+!+;I+AM+ANSHUMAN SINGH+%F0%9F%92%BB;FRONTEND+DEVELOPER;AI+ENTHUSIAST;CLOUD+&+DEVOPS+LEARNER)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&size=100&pause=1000&color=18b8d0&center=true&vCenter=true&width=2000&height=200&lines=HELLO+NICE+TO+MEET+YOU%F0%9F%91%8B+!+;I+ANSHUMAN+SINGH+%F0%9F%92%BB;FRONTEND+DEVELOPER;AI+ENTHUSIAST;CLOUD+&+DEVOPS+LEARNER)](https://git.io/typing-svg)
 
 ![](https://github.com/anshumansingh2409/anshumansingh2409/blob/main/github-readme-profile.gif)
 
@@ -58,4 +58,4 @@
 
 [![](https://visitcount.itsvg.in/api?id=anshumansingh2409&icon=5&color=1)](https://visitcount.itsvg.in)
 
-<!-- Made with ❤️ by Anshuman Singh -->
+##Made with ❤️ by Prachi Sundram
