@@ -1,20 +1,20 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&size=100&pause=1000&color=18b8d0&center=true&vCenter=true&width=2000&height=200&lines=HELLO+NICE+TO+MEET+YOU%F0%9F%91%8B+!+;I+AM+VISHAL+%F0%9F%92%BB;FULL+STACK+DEVELOPER;AI+ENTHUSIAST;CLOUD+&+DEVOPS+LEARNER)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&size=100&pause=1000&color=18b8d0&center=true&vCenter=true&width=2000&height=200&lines=HELLO+NICE+TO+MEET+YOU%F0%9F%91%8B+!+;I+AM+ANSHUMAN SINGH+%F0%9F%92%BB;FRONTEND+DEVELOPER;AI+ENTHUSIAST;CLOUD+&+DEVOPS+LEARNER)](https://git.io/typing-svg)
 
 ![](https://github.com/anshumansingh2409/anshumansingh2409/blob/main/github-readme-profile.gif)
 
 # About Me:
-- 🔭 Full Stack Developer passionate about AI, FinTech & scalable web solutions  
+- 🔭 Frontend Developer passionate about AI, FinTech & scalable web solutions  
 - 🎓 B.Tech CSE student at Galgotias University  
 - 🌱 Learning AWS, Machine Learning, Java Spring Boot & advanced backend architectures  
 - 👀 Enthusiastic about React, 3D animations, and hackathons  
 - 💞️ Thrive on collaborations, open-source projects, and solving real-world problems  
 - 🎵 Fun fact: I remix songs into LOFI / Slowed + Reverb versions on YouTube!  
-- 📧 Reach me at: [vishalsingh.dev@gmail.com](mailto:vk24122005@gmail.com)
+- 📧 Reach me at: [anshumansingh2409@gmail.com](mailto:anshumansingh2409@gmail.com)
 
 ## 🌐 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishal-singh-426739304/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@wavesxvishal?si=PV2cc41qDOdt4CWh) 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/predicate_elite/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anshuman-singh-04611022b/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@anshumansingh5432) 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__anshu24____/)
 
 ## 🧰 Tech Stack
 **Languages & Frameworks:**  
@@ -58,4 +58,4 @@
 
 [![](https://visitcount.itsvg.in/api?id=anshumansingh2409&icon=5&color=1)](https://visitcount.itsvg.in)
 
-<!-- Made with ❤️ by Vishal -->
+<!-- Made with ❤️ by Anshuman Singh -->
