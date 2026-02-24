@@ -247,17 +247,6 @@
 
 
 
-
-
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=120&section=header&text=🏆%20Hall%20of%20Fame%20:%20The%20Achievement%20Gallery&fontSize=45&animation=fadeIn&fontAlignY=38&palette=miku"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anshumansingh2409&theme=tokyonight&no-frame=true&margin-w=20&column=3&rank=SSS,SS,S,A" width="100%" />
-</p>
-
 <br>
 
 <table align="center" width="100%">
@@ -279,7 +268,6 @@
         </a>
       </p>
       <br>
-      <img src="https://visitcount.itsvg.in/api?id=anshumansingh2409&icon=5&color=6" height="25" />
       <p style="color: #60a5fa; font-family: sans-serif;"><b>Digital Identity Verified & Secured</b></p>
     </td>
   </tr>
